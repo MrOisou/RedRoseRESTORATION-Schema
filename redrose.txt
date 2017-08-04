@@ -1,7 +1,7 @@
 "sample"
 {
 	"base"		"nutscript"
-	"title"		"HL2 RP"
-	"author"	"Chessnut"
+	"title"		"RedRose-Ressurection"
+	"author"	"Mr.Oisou & Drex"
 	"menusystem"	"1"
 }
